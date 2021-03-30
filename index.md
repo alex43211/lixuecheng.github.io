@@ -1,12 +1,12 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="40%">
       <h1>李学成</h1>
       <p><b>国籍  中国</b></p>
       <p><b>毕业院校  成均馆大学</b></p>
       <p><b>学位   经济学博士</b></p>
     </td>
-    <td width="25%">
+    <td width="60%">
       <img src="/lixuecheng.jpg" width="100%">    
     </td>
   </tr>
